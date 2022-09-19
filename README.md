@@ -1,7 +1,7 @@
 - Hi, I’m @creatorofoutside
 - I’m interested in graphic designing and coding as full stack dev. 
 - I’m currently learning front-end coding
-- i'm starting to learn coding since 2021 with html & css then js and jq...
+- i'm starting to learn coding since 2021 with html & css then js and ReactJs...
 
 <!---
 creatorofoutside/creatorofoutside is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
